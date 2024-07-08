@@ -1,6 +1,6 @@
 # CIPHERSAFE
 
-CipherSafe is a Password Manager Application which allows users to add,delete,edit and also generate strong passwords.
+CipherSafe is a Password Manager Application which allows users to add, delete, edit and also generate strong passwords.
 
 ## Features
 - Two Factor Authorisation using OAuth 2.0
@@ -17,7 +17,8 @@ CipherSafe is a Password Manager Application which allows users to add,delete,ed
 ## Features and Preview
 
 1. Login To Add Passwords
-![Uploading Screenshot (90).png…]()
+
+![Screenshot (90)](https://github.com/shubhangshirolawala/CipherSafe/assets/158447779/a4fb42b2-2edc-42cf-b5c3-49da7ffa9d7a)
 
 2. OAuth 2FA
 ![Screenshot (92)](https://github.com/shubhangshirolawala/CipherSafe/assets/158447779/1fa1195d-f576-464f-9265-63bc7b61e160)
